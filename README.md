@@ -2,6 +2,8 @@
 teste de conhcimento
 
 ```
-1. primeiro
+1. apt install python3
 ```
-apt install python3
+bash
+```
+2. 
