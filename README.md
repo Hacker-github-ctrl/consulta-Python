@@ -6,4 +6,14 @@ teste de conhcimento
 ```
 bash
 ```
-2. 
+2. https://github.com/Hacker-github-ctrl/consulta-Python.git
+```
+bash
+```
+3. cd Python-test.py
+```
+bash
+```
+4 python3 Python-test.py
+```
+bash
