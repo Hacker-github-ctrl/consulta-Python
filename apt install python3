@@ -1,0 +1,3 @@
+apt install python3
+cd Python-test13
+python3 Python-test13.py
