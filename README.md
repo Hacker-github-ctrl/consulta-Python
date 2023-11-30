@@ -6,7 +6,7 @@ teste de conhcimento
 ```
 bash
 ```
-2. https://github.com/Hacker-github-ctrl/consulta-Python.git
+2. git clone https://github.com/Hacker-github-ctrl/consulta-Python.git
 ```
 bash
 ```
